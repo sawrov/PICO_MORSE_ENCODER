@@ -44,6 +44,8 @@ for element in plain_text:
     except KeyError:
         if (element==" "):
             word_spacing(led)
+        else:
+            print ("Cannot Encode the character:"+ element)
     
         
 
