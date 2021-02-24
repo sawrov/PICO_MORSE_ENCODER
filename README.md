@@ -2,7 +2,7 @@
 
 
 The code is designed to run in a raspberry pi Pico controller.
-You can just copy and paste the code in an ide like THONNY and loaded it into your pico. 
+You can just copy and paste the code in an ide like THONNY and load it into your pico. 
 
 Following standards was followed for the timing. Unit time can be changed in the code defined by the unit_time variable.
 
